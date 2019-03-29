@@ -1,10 +1,10 @@
 # 用戶登入
 
-#### 一 . 開啟桌面上的oaClient.exe
+#### 一 . 開啟桌面上的 oaClient.exe
 
-![oaclient](../assets/oaclient.png)
+![oaclient.exe▲](../assets/oaclient.png)
 
-###### oaClient.exe意示圖▲
+###### oaClient.exe 意示圖▲
 
 #### 二 . 點擊右上的[未登入]或左邊[黃色鎖頭]按鈕，開啟登入視窗
 
